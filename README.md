@@ -6,7 +6,7 @@ Vi måler størrelsen på filen i bytes.
 I kodegolf skal du "pipe" inn argumentet, og få ut et svar. For eksempel skal følgende funke i python.
 Da kan du lese inn argumentet fra `stdin`. Gjerne søk på "kodespråk" + read from stdin på Google for å finne ut hvordan du leser inn et input.
 
-Hvis du vil så kan du lage en Pull Request med svarene dine inn til dette repoet i en mappe med navnet ditt! Vær obs på at folk kan se svarene dine og ta "inspirasjon", men den vil telle mot https://hacktoberfest.digitalocean.com/ målet.
+Hvis du vil så kan du lage en Pull Request med svarene dine inn til dette repoet i en mappe med navnet ditt! Vær obs på at folk kan se svarene dine og ta "inspirasjon", men den vil telle mot [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/) målet.
 
 ```bash
 echo "Her er inputet" | python losning.py
