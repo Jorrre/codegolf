@@ -1,9 +1,9 @@
 # Kodegolf
 
 I kodegolf prøver du å løse en oppgave med så få tegn du klarer.
-Du kan bruke hvilket så helst språk du vil og må huke tak i en dotkommer når dere har lyst vise fram en løsning.
+Du kan bruke hvilket som helst språk du vil og må huke tak i en dotkommer når dere har lyst vise fram en løsning.
 Vi måler størrelsen på filen i bytes.
-I kodegolf skal du "pipe" inn argumentet, og få ut et svar. For eksempel ser man et eksempel i python.
+I kodegolf skal du "pipe" inn argumentet, og få ut et svar. For eksempel skal følgende funke i python.
 Da kan du lese inn argumentet fra `stdin`
 
 ```bash
@@ -12,9 +12,9 @@ echo "Her er inputet" | python losning.py
 
 ## Oppgave 1: Røverspråk (easy)
 
-Røverspråk er et kodespråk som er ofte brukt av barn. Regelen er at etter hver konsonant, så skal man legge til en "o", og den samme konsonanten etterpå.
+Røverspråk er et kodespråk som er ofte brukt av barn. Regelen er at etter hver konsonant, så skal man legge til en "o", og den samme konsonanten i lowercase etterpå.
 
-Under set du to eksempler på et slik program.
+Under ser du to eksempler på et slik program.
 
 ```bash
 echo "Hei" | python losning.py // Hohei
@@ -42,7 +42,7 @@ Hva sier strengen?
 
 ## Oppgave 3: Bitcoin og Bønner (hard)
 
-Carlos Matos hadde klart å kjøpt seg masse masse bitcoin, og begynner å bli litt sulten. Han er skikkelig gira på kidney bønner og bestemmer seg å selge en av bitcoinsene sine. Finn ut hva det maksimale antall bokser med bønner du kan kjøpe på Meny for prisen av en Bitcoin på en gitt dag.
+Carlos Matos hadde klart å kjøpt seg masse masse bitcoin, og begynner å bli litt sulten. Han er skikkelig gira på kidney bønner og bestemmer seg å selge en av bitcoinene sine. Finn ut hva det maksimale antall bokser med bønner du kan kjøpe på Meny for prisen av en Bitcoin på en gitt dag.
 
 ```bash
 echo "2021-10-25" | python losning.py // 60428
