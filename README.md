@@ -4,8 +4,9 @@ I kodegolf prøver du å løse en oppgave med så få tegn du klarer.
 Du kan bruke hvilket som helst språk du vil og må huke tak i en dotkommer når dere har lyst vise fram en løsning.
 Vi måler størrelsen på filen i bytes.
 I kodegolf skal du "pipe" inn argumentet, og få ut et svar. For eksempel skal følgende funke i python.
-Da kan du lese inn argumentet fra `stdin`.
-Når du har gjort en oppgave så kan du lage en pull request med en fil som inneholder størrelsen på filen som svar!
+Da kan du lese inn argumentet fra `stdin`. Gjerne søk på "kodespråk" + read from stdin på Google for å finne ut hvordan du leser inn et input.
+
+Hvis du vil så kan du lage en Pull Request med svarene dine inn til dette repoet i en mappe med navnet ditt! Vær obs på at folk kan se svarene dine og ta "inspirasjon", men den vil telle mot https://hacktoberfest.digitalocean.com/ målet.
 
 ```bash
 echo "Her er inputet" | python losning.py
