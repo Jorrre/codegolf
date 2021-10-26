@@ -12,7 +12,7 @@ echo "Her er inputet" | python losning.py
 
 ## Oppgave 1: Røverspråk (easy)
 
-Røverspråk er et kodespråk som er ofte burkt av barn. Regelen er at etter hver konsonant, så skal man legge til en "o", og den samme konsonanten etterpå.
+Røverspråk er et kodespråk som er ofte brukt av barn. Regelen er at etter hver konsonant, så skal man legge til en "o", og den samme konsonanten etterpå.
 
 Under set du to eksempler på et slik program.
 
